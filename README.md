@@ -1,6 +1,6 @@
 # steram_app
 
-A new Flutter project.
+Temel stream ile ilgili mobil uygulama ve logicler. Yorumlarla açıklanarak yayınlanmıştır.
 
 ## Getting Started
 
